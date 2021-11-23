@@ -8,6 +8,74 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>museum online javascript</h1>
+    <h1 id="kopje">museum online javascript</h1>
+    <p id="mkBlauw">maak achtergrond blauw</p>
+    <p id="mkGroen">maak achtergrond groen</p>
+    <p id="mkGeel">maak achtergrond Geel</p>
+    <p id="mkRood">maak achtergrond rood</p>
+    <p id="mkPaars">maak achtergrond paars</p>
+    <p id="mkWit">maak achtergrond wit</p>
+    <p id="mkGrijs">maak achtergrond grijs</p>
+    <p id="mkOranje">maak achtergrond oranje</p>
+
+    <script>
+        const kopje = document.getElementById("kopje");
+        const mkBlauw = document.getElementById('mkBlauw')
+        const mkGroen = document.getElementById('mkGroen')
+        const mkGeel = document.getElementById('mkGeel')
+        const mkRood = document.getElementById('mkRood')
+        const mkPaars = document.getElementById('mkPaars')
+        const mkWit = document.getElementById('mkWit')
+        const mkGrijs = document.getElementById('mkGrijs')
+        const mkOranje = document.getElementById('mkOranje')
+
+
+        kopje.style.backgroundColor = "red"
+        mkBlauw.addEventListener('click',voeruitBlauw);
+        mkGroen.addEventListener('click',voeruitGroen);
+        mkGeel.addEventListener('click',voeruitGeel);
+        mkRood.addEventListener('click',voeruitRood);
+        mkPaars.addEventListener('click',voeruitPaars);
+        mkWit.addEventListener('click',voeruitWit);
+        mkGrijs.addEventListener('click',voeruitGrijs);
+        mkOranje.addEventListener('click',voeruitOranje);
+
+        
+
+        function voeruitBlauw(){
+            document.body.style.backgroundColor = "blue";
+
+        }
+
+        function voeruitGroen(){
+            document.body.style.backgroundColor = "green";
+
+        }
+
+        function voeruitGeel(){
+            document.body.style.backgroundColor = "yellow";
+        }
+
+        function voeruitRood(){
+            document.body.style.backgroundColor = "red";
+        }
+
+        function voeruitPaars(){
+            document.body.style.backgroundColor = "Violet";
+        }
+
+        function voeruitWit(){
+            document.body.style.backgroundColor = "white";
+        }
+
+        function voeruitGrijs(){
+            document.body.style.backgroundColor = "grey";
+        }
+
+        function voeruitOranje(){
+            document.body.style.backgroundColor = "orange";
+        }
+
+    </script>
 </body>
 </html>
