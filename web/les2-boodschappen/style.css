@@ -20,10 +20,18 @@ h2 {
     margin: 0 0 10px 0;
 }
 
+.oranje {
+    color: orange;
+}
+
+.groen {
+    color: green;
+}
+
 button{
     padding: 10px 20px;
     background-color: lightskyblue;
-    color: navy
+    color: navy;
     font-size: 18px;
     border: 2px solid black;
 }
