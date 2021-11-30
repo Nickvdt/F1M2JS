@@ -1,4 +1,4 @@
 # Fase 1 Module 2 Museum Online
-## javascript
+## JavaScript Nick van der Tol
 
-(live view)[http://32934.hosts1.ma-cloud.nl/f1m2js/]
+[live view van de opdrachten](http://32934.hosts1.ma-cloud.nl/f1m2js/)
