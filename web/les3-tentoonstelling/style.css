@@ -1,0 +1,13 @@
+body{
+    background-color: white;
+    color: black;
+    margin-left: 20%;
+    margin-right: 40%;
+}
+
+#container{
+    background-color: white;
+    width: 700px;
+    margin: auto;
+}
+
