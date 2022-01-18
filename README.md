@@ -6,4 +6,4 @@
 - [Les 3 Tentoonstelling](https://32934.hosts1.ma-cloud.nl/f1m2js/les3-tentoonstelling/)
 - [les 4 Seizoenen](http://32934.hosts1.ma-cloud.nl/f1m2js/les4-seizoenen/)
 - [les 5 Silver Bullet Adventure](https://32934.hosts1.ma-cloud.nl/f1m2js/les5-silverbulletadventure)
-- [les 6 Silver Bullet Adventure Met Directions]((https://32934.hosts1.ma-cloud.nl/f1m2js/les6-silverbulletadventure)
+- [les 6 Silver Bullet Adventure Met Directions](https://32934.hosts1.ma-cloud.nl/f1m2js/les6-silverbulletadventure)
